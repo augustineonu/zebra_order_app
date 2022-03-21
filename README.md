@@ -1,16 +1,6 @@
-# order
+## Augustine Onu 
 
-A new Flutter project.
+**check app demo on
+https://appetize.io/app/d4wq5dv01gqz04jge7unh1r4tw?device=nexus7&osVersion=11.0&scale=50
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src= "https://user-images.githubusercontent.com/97133584/159357243-83e91b25-e1a7-44ce-9219-86f90e0647c3.jpeg">
